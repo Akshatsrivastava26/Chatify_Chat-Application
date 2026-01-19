@@ -73,7 +73,7 @@ const Navbar = (props) => {
         }}
       >
         <Flex justify={"space-between"}>
-          <Text fontSize="2xl">Conversa</Text>
+          <Text fontSize="2xl">Chatify</Text>
 
           <Box
             display={{ base: "none", md: "block" }}
@@ -99,7 +99,7 @@ const Navbar = (props) => {
               p={3}
               mr={2}
               onClick={() => {
-                window.open("https://github.com/pankil-soni");
+                window.open("https://github.com/Akshatsrivastava26");
               }}
             >
               <FaGithub />
