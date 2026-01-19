@@ -1,4 +1,4 @@
-# 💬 Conversa – Real-Time Chat Application
+# 💬 Chatify – Real-Time Chat Application
 
 Conversa is a real-time chat application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Socket.io**.  
 It enables users to send and receive messages instantly through a modern, responsive, and secure web interface.
