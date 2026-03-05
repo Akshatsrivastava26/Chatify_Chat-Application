@@ -1,6 +1,6 @@
 # 💬 Chatify – Real-Time Chat Application
 
-Conversa is a real-time chat application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Socket.io**.  
+Chatify is a real-time chat application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Socket.io**.  
 It enables users to send and receive messages instantly through a modern, responsive, and secure web interface.
 
 ---
@@ -30,7 +30,7 @@ It enables users to send and receive messages instantly through a modern, respon
 
 ## 📁 Project Structure
 
-conversa-main/
+Chatify-main/
 
 │
 
@@ -83,15 +83,15 @@ conversa-main/
 
 | Login | Dashboard | Chat Area |
 |-------|------------|-----------|
-| ![Login](./screenshots/2_login_signup.png) | ![Dashboard](./screenshots/3_dashboard.png) | ![Chat](./screenshots/6_chatting_area.png) |
+|<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/b8f6a139-ef95-4b38-a3be-6bd48c1de33c" /> | <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/3c8344a0-a7e8-4bbf-9a06-586a170bf5e7" />| <img width="1910" height="939" alt="image" src="https://github.com/user-attachments/assets/563e22f3-b851-40ef-96e6-992423257ab7" /> |
 
 ---
 
 ## ⚙️ Installation and Setup
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/Akshatsrivastava26/Conversa_Chat-Application.git
-cd Conversa_Chat-Application
+git clone https://github.com/Akshatsrivastava26/Chatify_Chat-Application.git
+cd Chatify_Chat-Application
 
 ### 2️⃣ Setup the backend
 cd backend
