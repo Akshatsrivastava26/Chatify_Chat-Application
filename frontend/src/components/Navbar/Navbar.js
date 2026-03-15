@@ -54,7 +54,7 @@ const Navbar = (props) => {
             borderWidth={1}
             fontSize={"small"}
             backgroundColor={"transparent"}
-            href="https://github.com/pankil-soni"
+            href="https://github.com/Akshatsrivastava26"
             mx={1}
           >
             <FaGithub />
