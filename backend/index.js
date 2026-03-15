@@ -1,5 +1,3 @@
-// index.js (Main Backend)
-
 const express = require("express");
 const connectDB = require("./db.js");
 const cors = require("cors");
@@ -15,8 +13,8 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://localhost:3001",
-      "https://chat-app-u2cq.onrender.com",
-      "https://chatify-chat-application.vercel.app", // optional if frontend deployed
+      "https://chat-app-b63p.onrender.com",
+      "https://chatify-chat-application.vercel.app", 
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     credentials: true,
@@ -44,6 +42,6 @@ initSocket(server);
 
 // ✅ Step 5: Start Server
 server.listen(PORT, () => {
-  console.log(`🚀 Server started on http://localhost:${PORT}`);
+  console.log(`🚀 Server started on port: ${PORT}`);
   connectDB();
 });

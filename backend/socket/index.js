@@ -11,8 +11,8 @@ const initSocket = (server) => {
       origin: [
         "http://localhost:3000",
         "http://localhost:3001",
-        "https://chat-app-u2cq.onrender.com",
-        "https://your-frontend-domain.com",
+        "https://chatify-zpp2.onrender.com",
+        "https://chatify-chat-application.vercel.app ", 
       ],
       methods: ["GET", "POST"],
       credentials: true,
