@@ -16,7 +16,7 @@ app.use(
       "http://localhost:3000",
       "http://localhost:3001",
       "https://chat-app-u2cq.onrender.com",
-      "https://your-frontend-domain.com", // optional if frontend deployed
+      "https://chatify-chat-application.vercel.app", // optional if frontend deployed
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     credentials: true,
