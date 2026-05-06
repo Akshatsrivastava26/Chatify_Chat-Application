@@ -1,6 +1,6 @@
-# 💬 Chatify – Real-Time Chat Application
+# 💬 Chater-Box – Real-Time Chat Application
 
-Chatify is a real-time chat application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Socket.io**.  
+Chater-Box is a real-time chat application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Socket.io**.  
 It enables users to send and receive messages instantly through a modern, responsive, and secure web interface.
 
 ---
@@ -30,7 +30,7 @@ It enables users to send and receive messages instantly through a modern, respon
 
 ## 📁 Project Structure
 
-Chatify-main/
+Chater-Box-main/
 
 │
 
@@ -90,8 +90,8 @@ Chatify-main/
 ## ⚙️ Installation and Setup
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/Akshatsrivastava26/Chatify_Chat-Application.git
-cd Chatify_Chat-Application
+git clone https://github.com/Akshatsrivastava26/Chater-Box_Chat-Application.git
+cd Chater-Box_Chat-Application
 
 ### 2️⃣ Setup the backend
 cd backend
